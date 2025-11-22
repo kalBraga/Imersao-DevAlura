@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link rel="shortcut icon" href="assets/img/brasao-log.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Guia off meta da Toplane</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html" class="titulo">
+            <h1>Guia off meta da Toplane</h1>
+        </a>
+        
+        <div>
+            <input type="text" id="campoPesquisa" placeholder="Digite o nome de um campeão">
+            
+            <button id="Buscar" onclick="novaBuscar()">Buscar</button>
+        </div>
+    </header>
+
+    <div class="conteiner">
+        <main>
+            <audio id="audioNoxus" loop>
+                <source src="assets/audio/noxus.mp3" type="audio/mpeg">
+            </audio>
+
+            <button id="btnSom" class="btn-audio">
+                🔇 Som Off
+            </button>
+            <section class="card_Container"></section>
+            
+            <section id="heroInteractive" class="hero-interactive">
+                <div class="hero-glow"></div>
+                
+                <div class="crest-floater">
+                    <div class="crest-container">
+                        <img src="assets/img/brasao-log.png" alt="Brasão Noxus" class="noxus-crest" id="noxusCrest">
+                    </div>
+                </div>
+
+                <div class="hero-text-container">
+                    <h2 class="hero-title">OFF META</h2>
+                    <p class="hero-subtitle">Essa é a Única Ciência</p>
+                    <div class="scroll-indicator">Use a busca para sair da matrix</div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/kalBraga" target="_blank">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.alura.com.br/" target="_blank">Alura</a>
+            </li>
+            <li>
+                <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">Riot Games</a>
+            </li>
+        </ul>
+
+        <div class="footer-copy">
+            <p>&copy; 2025 Guia Off Meta. Desenvolvido por <strong>Kauã</strong>.</p>
+            <p class="disclaimer">
+                Este projeto foi criado para fins de estudo e não é vinculado à Riot Games.
+            </p>
+        </div>
+    </footer>
+    
+    <script src="assets/js/script.js"></script>
+</body>
+</html>

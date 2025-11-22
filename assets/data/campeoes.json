@@ -1,0 +1,121 @@
+[
+{
+    "idChanp": 1,
+    "posicao":"top",
+    "nome": "Trundle",
+    "titulo": "O Rei da troll",
+    "imagem": "assets/img/campeoes/Trundle.jpg",
+    "descriçao": "Trundle é um campeão off meta forte na toplane, graças à sua capacidade de roubar atributos dos inimigos e sua alta regeneração de vida. Ele é eficaz contra campeões que dependem de ataques básicos, Mesmo que você perca a fase de rotas, ele ainda permite uma jogada importantíssima: o split push nas sides.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/map-destroyer-trundle-late-game-649135"
+},
+
+{
+    "idChanp": 2,
+    "posicao":"top",
+    "nome": "Karthus",
+    "titulo": "O Lamento da Morte",
+    "imagem": "assets/img/campeoes/Karthus.jpg",
+    "descriçao": "Um mago de longo alcance que usa o Top para farmar e escalar itens rapidamente. Sua principal força é o dano global da Ultimate (R), que ajuda o time em qualquer lugar do mapa, transformando trocas desfavoráveis em eliminações assistidas e punindo oponentes com pouca vida.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/frontline-defile-tank-karthus-648453"
+},
+
+{
+    "idChanp": 3,
+    "posicao":"center",
+    "nome": "Jax",
+    "titulo": "O Canhão de Vidro",
+    "imagem": "assets/img/campeoes/Jax.jpg",
+    "descriçao": " Uma versão subestimada e explosiva do Grão-Mestre de Armas. Focado em maximizar o dano mágico do seu 'W' e da passiva da Ultimate, o Jax AP oferece um potencial de IK (Instant Kill) absurdo e derrete torres em segundos.  Jogue com responsabilidade! Diferente do Jax tradicional, você será extremamente 'papel' (frágil). O segredo é entrar, explodir o alvo e sair.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/jax-ap-646266"
+},
+
+{
+    "idChanp": 4,
+    "posicao":"center",
+    "nome": "Kayn Vermelho",
+    "titulo": "O Assassino Curador",
+    "imagem": "assets/img/campeoes/Kayn.jpg",
+    "descriçao": "Uma construção híbrida que subverte a função tradicional de tanque do Rhaast para maximizar o seu dano de execução. A introdução de Letalidade nesta build amplifica drasticamente o impacto do 'W' e da Ultimate, permitindo eliminar carries frágeis com uma velocidade surpreendente.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/red-assassin-kayn-615756"
+},
+
+{
+    "idChanp": 5,
+    "posicao":"top",
+    "nome": "Sejuani",
+    "titulo": "A Montanha Explosiva",
+    "imagem": "assets/img/campeoes/Sejuani.jpg",
+    "descriçao": "Esta versão transforma a Sejuani de um tanque de utilidade em uma ameaça de dano mágico surpresa. A estratégia foca na sinergia de atributos, priorizando itens que concedem simultaneamente Poder de Habilidade e Vida para potencializar o escalonamento do W  e do E. Essa combinação garante dano surpreendente sem sacrificar a resistência, punindo adversários que subestimam o potencial ofensivo do tanque",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/sejuani-kr-build-637988"
+},
+
+{
+    "idChanp": 6,
+    "posicao":"top",
+    "nome": "Lillia",
+    "titulo": "A Corça Intocável",
+    "imagem": "assets/img/campeoes/Lillia.jpg",
+    "descriçao": "Lillia no Top é a resposta perfeita contra campeões imóveis e lutadores pesados (Juggernauts). Sua alta velocidade de movimento permite que ela entre e saia de trocas sem ser tocada ('kiting'), aplicando dano verdadeiro e queimadura passiva constante. É uma escolha frustrante para o oponente, focada em ditar o ritmo da rota e colocar inimigos para dormir em lutas de equipe.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/mana-gt-hp-gt-ap-and-100-b-a-haste-638488"
+},
+
+{
+    "idChanp": 7,
+    "posicao":"top",
+    "nome": "Sion",
+    "titulo": "O Zumbi Estrategista",
+    "imagem": "assets/img/campeoes/Sion.jpg",
+    "descriçao": "Focado inteiramente em destruição de torres e farm, muitas vezes ignorando o KDA tradicional. Com itens de Letalidade ou Dano de Ataque bruto, a passiva de zumbi do Sion se torna a sua maior arma, permitindo que ele cause danos massivos a estruturas mesmo após morrer. É uma estratégia de 'proxy farm' e pressão constante que obriga o time inimigo a enviar múltiplos jogadores para pará-lo.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/my-immortal-sion-build-612051"
+},
+
+{
+    "idChanp": 8,
+    "posicao":"center",
+    "nome": "Warwick",
+    "titulo": "O Duelista de Barreira",
+    "imagem": "assets/img/campeoes/Warwick.jpg",
+    "descriçao": "O rei do 1v1 no início do jogo. A estratégia aqui é abusar do Feitiço de Invocador 'Barreira' em conjunto com a passiva do Warwick, que triplica a cura quando ele está com pouca vida. Você quer ser agredido para ficar com a vida baixa, ativar a barreira e curar tudo de volta em segundos, frustrando qualquer tentativa de troca do oponente.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/25-22-challenger-warwick-top-guide-642932"
+},
+
+{
+    "idChanp": 9,
+    "posicao":"center",
+    "nome": "Shaco",
+    "titulo": "O Mestre das Caixas (AP)",
+    "imagem": "assets/img/campeoes/Shaco.jpg",
+    "descriçao": "Diferente do Shaco assassino da selva, esta versão AP joga controlando o terreno. O objetivo é atrair inimigos para armadilhas (W) e usar o Clone (R) como uma bomba relógio mágica. É uma escolha de 'guerra psicológica': você não persegue o inimigo, você faz com que ele perca a paciência e tente te matar, caindo nas suas armadilhas defensivas.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/top-shaco-629527"
+},
+
+{
+    "idChanp": 10,
+    "posicao":"top",
+    "nome": "Karma",
+    "titulo": "A Maga Tanque",
+    "imagem": "assets/img/campeoes/Karma.jpg",
+    "descriçao": "Uma das escolhas mais frustrantes de enfrentar. Em vez de itens de suporte ou dano, você foca em itens de Tanque com Aceleração de Habilidade (como Manopla dos Glacinatas e Semblante Espiritual). O segredo é o 'W' fortalecido pelo Mantra (R), que cura uma porcentagem enorme da sua vida perdida, permitindo que você prenda lutadores corpo-a-corpo e sobreviva a danos letais repetidamente.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/bully-karma-toplane-650067"
+},
+
+{
+    "idChanp": 11,
+    "posicao":"center",
+    "nome": "Rengar",
+    "titulo": "O Predador de Batalha",
+    "imagem": "assets/img/campeoes/Rengar.jpg",
+    "descriçao": "No Top, o Rengar deixa de ser um assassino de 'um hit' para virar um lutador de trocas longas. Usando os arbustos da rota para pular constantemente, o foco desta build é maximizar o uso do 'W' (Rugido de Batalha), que cura o dano recebido recentemente. Isso permite que ele limpe controles de grupo e negue todo o 'burst' de campeões como Renekton ou Riven.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/rengar-top-646099"
+},
+
+{
+    "idChanp": 12,
+    "posicao":"center",
+    "nome": "Zac",
+    "titulo": "O Estilingue de Dano",
+    "imagem": "assets/img/campeoes/Zac.jpg",
+    "descriçao": "Embora seja um tanque, o Zac Top tem um dano base surpreendentemente alto no 'W' e 'Q'. A chave desta escolha é a sustentabilidade: cada pedaço de gosma que você pega no chão restaura vida, permitindo que você vença trocas pelo cansaço. Ele é excelente para preparar ganks, já que pode iniciar lutas de distâncias enormes com o seu 'E'.",
+    "linkBuild": "https://www.mobafire.com/league-of-legends/build/s15-gigachad-zac-top-builds-runes-matchups-playstyle-detailed-notes-wip-646479"
+}
+]
