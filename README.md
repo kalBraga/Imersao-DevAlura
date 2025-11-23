@@ -46,7 +46,7 @@ Este projeto é apenas o começo. O banco de dados (`campeoes.json`) foi estrutu
 
 ## 👀 Veja o resultado final
 
-O projeto está no ar! Você pode visualizar o site hospedado através do link abaixo:
+O projeto está no ar! Você pode acessar o site hospedado no GitHub pelo link abaixo:
 
 🔗 [Clique aqui para acessar o projeto online](https://kalbraga.github.io/Imersao-DevAlura/)
 
