@@ -44,6 +44,12 @@ Este projeto é apenas o começo. O banco de dados (`campeoes.json`) foi estrutu
 - [ ] **Builds Detalhadas:** Incluir variações de itens para diferentes "matchups" (contra quem você está jogando).
 - [ ] **Seção de Runas:** Implementar visualização gráfica das runas ideais para cada escolha.
 
+## 👀 Veja o resultado final
+
+O projeto está no ar! Você pode visualizar o site hospedado através do link abaixo:
+
+🔗 [Clique aqui para acessar o projeto online](https://kalbraga.github.io/Imersao-DevAlura/)
+
 ---
 <p align="center">
   Desenvolvido por <strong>Kauã</strong> ⚔️
